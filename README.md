@@ -10,6 +10,7 @@ HOW TO COMPILE AND RUN
 1: using terminal/command prompt: cd to yxt_hw1_submit folder
 
 2: run following commands from hw1 folder:
+
     javac *.java
 
     java InventorySystemMain
