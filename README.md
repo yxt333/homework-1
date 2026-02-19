@@ -1,6 +1,6 @@
 -Download the zip file
 
-inside the zip file is a summary and instructions.
+inside the zip file is a readme.txt for summary and instructions.
 
 
 Instruction here as well:
