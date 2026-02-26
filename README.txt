@@ -41,7 +41,8 @@ InventorySystemMain
 
 HOW TO COMPILE AND RUN
 ----------------------
-1: using terminal/command prompt
+1: using terminal/command prompt:
+  when you download zip, cd to the folder.
 
 2: run following commands
     javac *.java
@@ -50,6 +51,7 @@ HOW TO COMPILE AND RUN
 alternative:
 for running the vector vs arraylist comparison:
 1: using terminal/command prompt:
+  when you download zip, cd to the folder.
 
 2: run the following command:
     java VectorComparisonDemo
